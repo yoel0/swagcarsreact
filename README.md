@@ -1,7 +1,10 @@
 # SwagWagon
 ### A React App Template
 
-Clone and run `npm i` to use.
+Clone and run `npm i` followed by `npm start` to use.
+
+To change how fast the SwagWagon is moving, edit the number of seconds in Swag.css on line 18.
+To change the rotation speed of its wheels, edit the number of seconds in Swag.css on line12.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
