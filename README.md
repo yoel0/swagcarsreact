@@ -1,6 +1,8 @@
 # SwagWagon
 ### A React App Template
 
+Clone and run `npm i` to use.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
