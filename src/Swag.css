@@ -15,7 +15,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
     .carBody {
-    animation: Speedy-Boi infinite  0s linear;
+    animation: Speedy-Boi infinite  16s linear;
     }
 }
 
