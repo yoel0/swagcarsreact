@@ -4,29 +4,29 @@ import './Swag.css'
 
 const SwagWagon = props => {
  return (
-    <div class="carBody">
-        <div class="spoilerTop"></div>
-        <div class="spoiler"></div>
-        <div class="spoilerSupport"></div>
-        <div class="depth"></div>
-        <div class="exhaust1"></div>
-        <div class="exhaust2"></div>
-        <div class="carTop2">
-            <div class="carTop"></div>
+    <div className="carBody">
+        <div className="spoilerTop"></div>
+        <div className="spoiler"></div>
+        <div className="spoilerSupport"></div>
+        <div className="depth"></div>
+        <div className="exhaust1"></div>
+        <div className="exhaust2"></div>
+        <div className="carTop2">
+            <div className="carTop"></div>
         </div>
-        <div class="carShape"></div>
-        <div class="carBottom">
-            <div class="lightBeam"></div>
-            <div class="headlight"></div>
-            <div class="fender1"></div>
-            <div class="fender2"></div>
-            <img class="fire" src="http://www.clipartbest.com/cliparts/niE/yAR/niEyARbrT.png" alt="flames"></img>
-            <div class="heady">
+        <div className="carShape"></div>
+        <div className="carBottom">
+            <div className="lightBeam"></div>
+            <div className="headlight"></div>
+            <div className="fender1"></div>
+            <div className="fender2"></div>
+            <img className="fire" src="http://www.clipartbest.com/cliparts/niE/yAR/niEyARbrT.png" alt="flames"></img>
+            <div className="heady">
                 <img src={logo} className="App-logo" alt="logo" />
                 <div></div>
                 <img src={logo} className="App-logo" alt="logo" />
-                <div class="backlight"></div>
-                <div class="underglow"></div>
+                <div className="backlight"></div>
+                <div className="underglow"></div>
             </div>
         </div>
     </div>
