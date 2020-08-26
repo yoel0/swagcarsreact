@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import SwagWagon from './SwagWagon'
 import Tesla from './Tesla'
+import Bugatti from './Bugatti';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           rel="noopener noreferrer">Link to the only cars dealership that matters.. PIXAR BABY
         </a>
         <Tesla />
+        <Bugatti />
       </main>
     </div>
   );
